@@ -1,1 +1,1 @@
-This project uses the NetworkX library to build a recommendation engine. It uses the MovieLens dataset to create a graph where the nodes are movies and the edges are connections between movies that have been rated by the same user. The Adamic Adar measure is then used to calculate the similarity between pairs of movies. The final step is to recommend movies to users based on the similarity scores.
+####Movie Recommendation System####
